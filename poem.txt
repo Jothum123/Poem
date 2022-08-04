@@ -3,4 +3,6 @@ green
 blue
 amber
 lightgreen
+yellow
+orange
 these are the colors in my rainbow
